@@ -26,5 +26,10 @@ The second flag is in plain text in the presentation:
 
 ```
 The third flag in the presentation comes from the reverse of the md5 hash for 'ab0bfd73daaec7912dcdca1ba0ba3d05'
-ab0bfd73daaec7912dcdca1ba0ba3d05 MD5 : flag1
+`ab0bfd73daaec7912dcdca1ba0ba3d05 MD5 : flag1`
+```
+
+```
+What is this, a flag for ant's? The fourth flag was in unlegibly small text in the presentation
+`ZeroCTF{sw1gg1ty sw00ty}`
 ```
