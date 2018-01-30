@@ -1,9 +1,9 @@
 # CTF_Practice
 
-####Challenges
+#### Challenges
 
 
-####1. Hidden PDF
+#### 1. Hidden PDF
 The fist flag was found in the header information for the presentation pdf. The steps for extracting it:
 
 `strings presentation.pdf` | grep CTF
