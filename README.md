@@ -17,3 +17,14 @@ The result is:
 
 `ZeroCTF{l00k_c4r3fully}`
 ```
+
+```
+The second flag is in plain text in the presentation:
+
+`ZeroCTF{THi5 i5 A fLaG}`
+```
+
+```
+The third flag in the presentation comes from the reverse of the md5 hash for 'ab0bfd73daaec7912dcdca1ba0ba3d05'
+ab0bfd73daaec7912dcdca1ba0ba3d05 MD5 : flag1
+```
