@@ -1,0 +1,2 @@
+1. ZeroCTF\173l00k\137c4r3fully\175
+1.1 ZeroCTF{l00k_c4r3fully}
