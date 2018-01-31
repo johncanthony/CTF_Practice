@@ -44,8 +44,8 @@ This produces the output:
 
 `FkxuIZL{i4xvk_b3do11as}`
 
-Given the "clue" of Caesar in the original challenge file, I applied a series of Caesar Cipher permutations on the
-output until ariving at a match for A=G. I then filter the results using `tr` to do my alphabetic shift:
+Given the "clue" of Caesar in the original challenge file, I applied a Caesar Cipher on the output.
+Since I know the form of the flag, Z=F and I assume A=G. I then filter the results using `tr` to do my alphabetic shift:
 
 `strings secretum | grep {*} | tr g-za-fG-ZA-F a-zA-Z`
 
