@@ -33,3 +33,22 @@ The third flag in the presentation comes from the reverse of the md5 hash for 'a
 What is this, a flag for ant's? The fourth flag was in unlegibly small text in the presentation
 `ZeroCTF{sw1gg1ty sw00ty}`
 ```
+
+#### 2. Secretum
+```
+The first flag from this file was found using a search for the known flag pattern:
+
+`strings secretum | grep {*}`
+
+This produces the output:
+
+`FkxuIZL{i4xvk_b3do11as}`
+
+Given the "clue" of Caesar in the original challenge file, I applied a series of Caesar Cipher permutations on the
+output until ariving at a match for A=G. I then filter the results using `tr` to do my alphabetic shift:
+
+`strings secretum | grep {*} | tr g-za-fG-ZA-F a-zA-Z`
+
+This results in the clear text flag:
+
+`ZeroCTF{c4rpe_v3xi11um}`
