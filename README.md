@@ -1,5 +1,21 @@
 # CTF_Practice
 
+
+#### FLAGS
+
+| Challenge      | Flags         | Points|
+| -------------  |:-------------:| ---: |
+| *Presentation*   | |
+|                | ZeroCTF{l00k_c4r3fully}| 50 |
+|                | ZeroCTF{THi5 i5 A fLaG}      | 50 |
+|                | ab0bfd73daaec7912dcdca1ba0ba3d05 => flag1  | 50 |
+|                | ZeroCTF{sw1gg1ty sw00ty}     | 50 |
+| *secretum*       |    |
+|  | ZeroCTF{c4rpe_v3xi11um} | 100 |
+|  **Total**  |   | 300 |
+
+
+
 #### Challenges
 
 
@@ -40,7 +56,7 @@ The first flag from this file was found using a search for the known flag patter
 
 `strings secretum | grep {*}`
 
-This produces the output:
+This fortunately only produces the output:
 
 `FkxuIZL{i4xvk_b3do11as}`
 
