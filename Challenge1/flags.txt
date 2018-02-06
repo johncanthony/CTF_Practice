@@ -1,0 +1,10 @@
+1. ZeroCTF\173l00k\137c4r3fully\175
+1.1 ZeroCTF{l00k_c4r3fully}
+
+2. ZeroCTF{THi5 i5 A fLaG}
+
+3. ab0bfd73daaec7912dcdca1ba0ba3d05 MD5 : flag1
+
+4. ZeroCTF{sw1gg1ty sw00ty}
+
+5. ZeroCTF{c4rpe_v3xi11um}
