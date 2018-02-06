@@ -9,8 +9,8 @@
 |                | ZeroCTF{t0p s3kr1t} | 50 |
 | *hax.jpg*       |    |
 |  | ZeroCTF{st3g0s4urus_r3x} | 100 |
+|  | ZeroCTF{c0ntr4st} | 100 |
 |  **Total**  |   | 150 |
-
 
 
 #### Challenges
@@ -71,5 +71,13 @@ I gave this password to the unzip->password prompt, and Voila!
 
 The flag is : ZeroCTF{st3g0s4urus_r3x}
  
+
+```
+
+``` 
+
+The second flag is actually easier to find, and is in the image. Manipulating image color values, I was able to find the flag:
+
+`ZeroCTF{c0ntr4st}`
 
 ```
