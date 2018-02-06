@@ -7,10 +7,11 @@
 | -------------  |:-------------:| ---: |
 | *Presentation*   | |
 |                | ZeroCTF{t0p s3kr1t} | 50 |
+|                | ZeroCTF{t4b_t4b_t4b} | 50 |
 | *hax.jpg*       |    |
 |  | ZeroCTF{st3g0s4urus_r3x} | 100 |
 |  | ZeroCTF{c0ntr4st} | 100 |
-|  **Total**  |   | 250 |
+|  **Total**  |   | 300 |
 
 
 #### Challenges
@@ -22,6 +23,13 @@ The easiest flag to find in the presentation pdf is in plain text with but with 
 revealing the flag:
 
 `ZeroCTF{t0p s3kr1t}`
+
+```
+
+```
+The second flag can be found in the translation screencapture in the presentation. Upon zooming in, one of the tabs in the image shows:
+
+`ZeroCTF{t4b_t4b_t4b}`
 
 ```
 
