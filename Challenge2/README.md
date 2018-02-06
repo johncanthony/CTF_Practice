@@ -10,7 +10,7 @@
 | *hax.jpg*       |    |
 |  | ZeroCTF{st3g0s4urus_r3x} | 100 |
 |  | ZeroCTF{c0ntr4st} | 100 |
-|  **Total**  |   | 150 |
+|  **Total**  |   | 250 |
 
 
 #### Challenges
