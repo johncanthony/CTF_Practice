@@ -1,4 +1,4 @@
-# CTF_Practice - Chall3nge 0ne
+# CTF_Practice - Chall3nge Tw0
 
 
 #### FLAGS
