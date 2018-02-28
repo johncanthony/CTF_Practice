@@ -1,0 +1,2 @@
+flag.txt file
+1.ZeroCTF{r0und_4nd_r0und}
