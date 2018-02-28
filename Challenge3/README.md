@@ -64,7 +64,7 @@ ls -la flag.txt
 -rw-r--r-- 1 root root 1310720 Feb 25 22:55 flag.txt
 ```
 
-With this difference in size, I took a chance that this really was a matryoshka dolls of encryption following the same pattern, and wrote up a quick script:
+With this difference in size, I took a chance that this really was a matryoshka dolls of compression following the same pattern, and wrote up a quick script:
 
 ```
 #!/bin/bash
