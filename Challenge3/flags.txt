@@ -1,2 +1,3 @@
 flag.txt file
 1.ZeroCTF{r0und_4nd_r0und}
+2.ZeroCTF{Ju5t_j4mm1n}
