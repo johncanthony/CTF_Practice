@@ -7,6 +7,7 @@
 | -------------  |:-------------:| ---: |
 | *flag.txt*       |    |
 |  | ZeroCTF{r0und_4nd_r0und} | 100 |
+| *out*       |    |
 |  | ZeroCTR{Ju5t_j4mm1n} | 100 |
 |  **Total**  |   | 200 |
 
