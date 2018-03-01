@@ -90,7 +90,7 @@ too rusty.
 https://zer0-one.net/3-1.tar.gz
 ```
 
-#### out
+#### 2.out
 
 The first challenge lead directly to a tar file containing the next step. The contents of this file were curious:
 
